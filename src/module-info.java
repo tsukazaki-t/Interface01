@@ -1,2 +1,2 @@
-module Interface01 {
+module Interface02 {
 }
